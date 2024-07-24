@@ -10,11 +10,11 @@
 
 
 
-<h2>🍰 Contribution Guidelines:</h2>
+<h2>🍰 Project Screenshots:</h2>
 
-Contributions are welcome!
 
-  
+  ![image](https://github.com/user-attachments/assets/7b5ffbd7-5f1c-4203-bb2b-b82df3d9fa08)
+![image](https://github.com/user-attachments/assets/399aed4d-95e1-4185-b1a9-a3e8fa46285e)
   
 <h2>💻 Built with</h2>
 
